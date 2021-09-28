@@ -1,0 +1,26 @@
+.home {
+    background-image: url(pics/rings.jpg); /*img by: nurdanst  https://www.istockphoto.com/photo/rings-gm502711544-82086545*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.signin {
+    background-image: url(pics/weddingflowers.jpg);  /*img by: Prostock-Studio*/
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+
+h1{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+h2 {
+    padding: 10px;
+}
+
+.headline {
+    background-color: rgb(140, 255, 217, 0.7);
+}
